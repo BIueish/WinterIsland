@@ -1,3 +1,4 @@
 # WinterIsland
-A top-down RPG inspired by Google's Champion Island Doodle.
+
+A top-down game inspired by Google's Champion Island Doodle.
 
